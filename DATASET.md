@@ -53,9 +53,9 @@ The supported datasets are listed below.
 
 - [MS-Celeb-1M](https://www.microsoft.com/en-us/research/project/ms-celeb-1m-challenge-recognizing-one-million-celebrities-real-world/)
     - Part1 (584K): [GoogleDrive](https://drive.google.com/open?id=16WD4orcF9dqjNPLzST2U3maDh2cpzxAY) or [BaiduYun](https://pan.baidu.com/s/1i4GYYNKTyp3lvOYLrvWc0g) (passwd: geq5)
-    - Benchmarks (5.21M): [GoogleDrive](https://drive.google.com/file/d/10boLBiYq-6wKC_N_71unlMyNrimRjpVa/view?usp=sharing) or [OneDrive](https://mycuhk-my.sharepoint.com/:u:/g/personal/1155095455_link_cuhk_edu_hk/Ef588F6OV4ZMqqN85Nf-Pv8BcDzSo7DgSG042TA2E4-4CQ?e=ev2Wfl).
-    - Precomputed KNN: [OneDrive](https://mycuhk-my.sharepoint.com/:u:/g/personal/1155095455_link_cuhk_edu_hk/ES_cbfT-m_hEqSTdmBSySEIBGN664NsSamq3-9C4b7yQow?e=qMA36g)
-    - Image Lists: [GoogleDrive](https://drive.google.com/file/d/1kurPWh6dm3dWQOLqUAeE-fxHrdnjaULB/view?usp=sharing) or [OneDrive](https://mycuhk-my.sharepoint.com/:u:/g/personal/1155095455_link_cuhk_edu_hk/ET7lHxOXSjtDiMsgqzLK9LgBi_QW0WVzgZdv2UBzE1Bgzg?e=jZ7kCS).
+    - Benchmarks (5.21M): [GoogleDrive](https://drive.google.com/file/d/10boLBiYq-6wKC_N_71unlMyNrimRjpVa/view?usp=sharing).
+    - Precomputed KNN: [GoogleDrive](https://drive.google.com/file/d/1CRwzy899vkLqIYm60AzDsaDEBuwgxNlY/view?usp=sharing).
+    - Image Lists: [GoogleDrive](https://drive.google.com/file/d/1kurPWh6dm3dWQOLqUAeE-fxHrdnjaULB/view?usp=sharing).
     - Original Images: [OneDrive](https://mycuhk-my.sharepoint.com/:f:/g/personal/1155095455_link_cuhk_edu_hk/ErY9MmAhmlZMvO9y9SagNOcBISISEdzBfJshn-poD84QPQ?e=PRRpBe). We re-align [MS1M-ArcFace](https://www.dropbox.com/s/wpx6tqjf0y5mf6r/faces_ms1m-refine-v2_112x112.zip?dl=0) with our own face alignment model.
     - Pretrained Face Recognition Model: [GoogleDrive](https://drive.google.com/open?id=1eKsh7x-RUIHhIJ1R9AlUjsJdsdbh2qim). For using the model to extract features, please check the [code](https://github.com/yl-1993/hfsoftmax/tree/ltc) and use [sample data](https://drive.google.com/open?id=1VkZWZmBnaQlTaTNQSQXe-8q8Z8pNuI-D) to have a try.
 - [YouTube-Face](https://www.cs.tau.ac.il/~wolf/ytfaces/): [GoogleDrive](https://drive.google.com/open?id=1zrckFOx5fDnvDSK3ZeT2Di6HLaxZPnoG) or
