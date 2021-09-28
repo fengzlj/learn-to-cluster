@@ -56,7 +56,7 @@ The supported datasets are listed below.
     - Benchmarks (5.21M): [GoogleDrive](https://drive.google.com/file/d/10boLBiYq-6wKC_N_71unlMyNrimRjpVa/view?usp=sharing).
     - Precomputed KNN: [GoogleDrive](https://drive.google.com/file/d/1CRwzy899vkLqIYm60AzDsaDEBuwgxNlY/view?usp=sharing).
     - Image Lists: [GoogleDrive](https://drive.google.com/file/d/1kurPWh6dm3dWQOLqUAeE-fxHrdnjaULB/view?usp=sharing).
-    - Original Images: [OneDrive](https://mycuhk-my.sharepoint.com/:f:/g/personal/1155095455_link_cuhk_edu_hk/ErY9MmAhmlZMvO9y9SagNOcBISISEdzBfJshn-poD84QPQ?e=PRRpBe). We re-align [MS1M-ArcFace](https://www.dropbox.com/s/wpx6tqjf0y5mf6r/faces_ms1m-refine-v2_112x112.zip?dl=0) with our own face alignment model.
+    - Original Images: [GoogleDrive](https://drive.google.com/file/d/1ZirYG7n-9QL0G1Ub8bkDUKRMI7HwrvQv/view?usp=sharing). We re-align [MS1M-ArcFace](https://www.dropbox.com/s/wpx6tqjf0y5mf6r/faces_ms1m-refine-v2_112x112.zip?dl=0) with our own face alignment model.
     - Pretrained Face Recognition Model: [GoogleDrive](https://drive.google.com/open?id=1eKsh7x-RUIHhIJ1R9AlUjsJdsdbh2qim). For using the model to extract features, please check the [code](https://github.com/yl-1993/hfsoftmax/tree/ltc) and use [sample data](https://drive.google.com/open?id=1VkZWZmBnaQlTaTNQSQXe-8q8Z8pNuI-D) to have a try.
 - [YouTube-Face](https://www.cs.tau.ac.il/~wolf/ytfaces/): [GoogleDrive](https://drive.google.com/open?id=1zrckFOx5fDnvDSK3ZeT2Di6HLaxZPnoG) or
 [BaiduYun](https://pan.baidu.com/s/1J7bMHctqEG7Cgzpy5qw-qA) (passwd: aper).
